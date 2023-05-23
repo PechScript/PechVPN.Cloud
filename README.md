@@ -13,7 +13,7 @@ and the users...
 ## :book: Installation
 ```bash
 apt-get update -y && apt-get upgrade -y &&
-wget --no-check-certificate https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADM-ULTIMATE-NEW-FREE/master/install.sh &&
+wget --no-check-certificate https://raw.githubusercontent.com/PechScript/PechVPN.Cloud/PechVPN/instalar.sh &&
 chmod 777 install.sh* && ./install.sh*
 ```
 ADM-MANAGER (missing dependencies will be installed automatically)
