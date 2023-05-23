@@ -1,2 +1,0 @@
-# PechVPN.Cloud
-PechVPN.Cloud
